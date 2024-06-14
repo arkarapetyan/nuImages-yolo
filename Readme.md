@@ -23,6 +23,9 @@ Please note that this is a group project. The following individuals have made co
 ---
 ## Feed
 
+### 1.0.1 (14.06.2024)
+- Fixed Error Train Notebook.
+
 ### 1.0.0 (14.06.2024)
 - Refactored Notebooks.
 - Replaced CLI Commands with Python Scripts.
